@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--TODO(Step 4 : Added a custom background for color pallet button for Normal State.)-->
-<!--START-->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="rectangle">
@@ -27,4 +25,3 @@
         </shape>
     </item>
 </layer-list>
-    <!--END-->
